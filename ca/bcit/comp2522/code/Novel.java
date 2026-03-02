@@ -3,7 +3,7 @@ package ca.bcit.comp2522.code;
 /**
  * Represents a novel with a title, author name, and publication year.
  *
- * @author Ziad Malik
+ * @author Ziad Malik, Sebastion Roby
  * @version 1.0
  */
 public class Novel
