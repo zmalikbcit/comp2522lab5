@@ -182,7 +182,7 @@ public class Bookshop
     }
 
     /**
-     * Removes all novels whose title contains the word "the" in any case.
+     * Removes all novels whose title contains the FILTER_WORD in any case.
      */
     private void removeTitlesContainingThe()
     {
